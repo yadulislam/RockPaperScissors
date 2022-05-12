@@ -1,2 +1,2 @@
 # RockPaperScissors
- fun game to play with compute.
+A fun game to play with the computer.
